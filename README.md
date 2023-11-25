@@ -1,6 +1,6 @@
 # flutter_login
 
-A new Flutter project.
+A new Flutter project. We will gonna use feature first approach, with MVC.
 
 ## Getting Started
 
